@@ -1,6 +1,11 @@
 # river_learn
 
-A new Flutter project.
+This repository includes all Provider variants of Riverpod approach : 
+- provider
+- change notitifier provider
+- state provider
+- state notifier
+
 
 ## Getting Started
 
